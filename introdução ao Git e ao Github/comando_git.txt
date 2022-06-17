@@ -1,0 +1,18 @@
+Comandos git/cmd:
+
+dir -> lista de diretorios na pasta que estamos situados
+cd -> adenttar dentro de uma pasta que vc esta pre-setado
+cd.. -> voltar uma pasta
+cls -> limpar tela de navegação
+mkdir -> cria uma pasta
+echo -> repete o que foi escrito no propprio terminmal
+> -> cria arqivos (ex: echo hello > hello.txt)
+del -> apaga arquivos dentro de um diretorio
+rmdir -> aagar um diretorio e tudo que esta dentro dele
+
+
+Comandos git bash:
+
+git clone + link -> adiciona o repositorio do servidor na sua maquina
+git status -> verifica se he diferenças entre os repositorios (servidor local e servidor do github)
+git add. ou git add -a -> atualiza o repositorio da nuvem caso o seu esteja mais atualizado ou modificado
