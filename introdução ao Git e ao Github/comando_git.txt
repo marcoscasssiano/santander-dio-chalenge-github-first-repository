@@ -16,3 +16,6 @@ Comandos git bash:
 git clone + link -> adiciona o repositorio do servidor na sua maquina
 git status -> verifica se he diferenças entre os repositorios (servidor local e servidor do github)
 git add. ou git add -a -> atualiza o repositorio da nuvem caso o seu esteja mais atualizado ou modificado
+git commit -m "descricao" -> cria uma descricao
+git push origin main -> atualzia do repositorio (eu acho hue)
+
