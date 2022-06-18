@@ -17,5 +17,5 @@ git clone + link -> adiciona o repositorio do servidor na sua maquina
 git status -> verifica se he diferenças entre os repositorios (servidor local e servidor do github)
 git add. ou git add -a -> atualiza o repositorio da nuvem caso o seu esteja mais atualizado ou modificado
 git commit -m "descricao" -> serve como um tipo de permissao para mudar  codigo ara um versao segura
-git push origin main -> sobe a minha moificação no codigo
+git push origin main -> sobe a minha modificação no codigo
 
