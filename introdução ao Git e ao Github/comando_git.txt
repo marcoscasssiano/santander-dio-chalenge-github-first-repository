@@ -1,6 +1,6 @@
 Comandos git/cmd:
 
-dir -> lista de diretorios na pasta que estamos situados
+dir -> lista de diretorios na pasta que estamos situados (ls for linux)
 cd -> adenttar dentro de uma pasta que vc esta pre-setado
 cd.. -> voltar uma pasta
 cls -> limpar tela de navegação
